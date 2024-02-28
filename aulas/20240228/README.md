@@ -1,4 +1,4 @@
-# Exercícios de revisão C++
+# Exercícios C++
 
 
 ## Exercício 1
