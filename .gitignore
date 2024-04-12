@@ -123,3 +123,10 @@ local.properties
 ## QT Creator rules - hugom
 *build-*
 *.pro.user
+
+**/build/*
+
+*.bkp
+testes
+
+.vscode
